@@ -115,8 +115,8 @@ autocmd FileType xml 		set omnifunc=xmlcomplete#CompleteTags
 "tabline:
 "+----------------------------------------------------------+
 "|To enable powerline install Airline with the command below|
-"|sudo apt-get install airline								              |
-"|If not, then comment the lines below						          |
+"|sudo apt-get install airline				    			|
+"|If not, then comment the lines below						|
 "+----------------------------------------------------------+
 
 let g:airline_theme = 'base16_grayscale'
